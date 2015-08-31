@@ -1,0 +1,18 @@
+{
+  "name": "language-debian",
+  "main": "./lib/language-debian",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-debian:toggle"
+  },
+  "repository": "https://github.com/atom/language-debian",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
