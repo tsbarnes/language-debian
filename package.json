@@ -1,6 +1,6 @@
 {
   "name": "language-debian",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Debian package files support for Atom",
   "keywords": [
     "debian",
